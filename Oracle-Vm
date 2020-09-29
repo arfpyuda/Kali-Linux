@@ -1,0 +1,8 @@
+Oracle-VirtualMachine-VirtualBox
+
+  sudo su apt update
+  dpkg -i (name oracle data)(im using ubuntu cos if im using debian not working and always error in dpkg package)
+  apt-get update
+  
+    done
+  
