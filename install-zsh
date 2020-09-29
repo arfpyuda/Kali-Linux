@@ -1,0 +1,16 @@
+Install zsh in kali linux :
+
+    apt-get install zshrc
+    sudo apt install -y zsh zsh-syntax-highlighting zsh-autosuggestions
+    cp /etc/skel/.zshrc ~/
+    
+then all you need to do switch " ZSH "
+    
+    root@arfpyuda :~ zsh
+    
+you can set ZSH as your default (replacing bash) by doing
+    
+    chsh -s /bin/zsh
+    
+    done
+    
