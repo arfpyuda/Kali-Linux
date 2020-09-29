@@ -1,0 +1,15 @@
+1. install app
+
+    sudo apt-get install (program name)
+    dpkg -install (name program)
+    dpkg -i (name program)
+
+2. Remove app
+
+    apt-get remove (name program)
+    apt-get purge (name program) with package
+
+3. Search app
+
+    apt-get search (name program)
+    apt-cache list
